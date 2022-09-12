@@ -12,6 +12,6 @@ Uygulamayı yüklemek için;
 
 ## Çalıştırma:
 * Autocad komut satırından **NY** yazıp entere basın.
-* Komut parametrelerini girin ve numra yazılacak konumları belirleyin.
+* Komut parametrelerini girin ve numara yazılacak konumları belirleyin.
 
 Artış değeri olarak negatif değer verirseniz numaralar azalarak değişir.
